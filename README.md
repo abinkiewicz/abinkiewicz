@@ -1,6 +1,8 @@
 ### Hi all! 🧚
 
-![ChatGPT Image 29 cze 2025, 12_52_12](https://github.com/user-attachments/assets/5d1046bd-e3e6-4191-9306-4b8af188a802)
+<div style="text-align: center;">
+  <img src="datascienceme.png" width="500" height="400">
+</div>
 
 I am thrilled with things we can do with data and how it can influence our life! ✨
 
