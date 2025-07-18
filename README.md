@@ -1,8 +1,8 @@
 # Hi all! 🧚
 
-<div style="text-align: center;">
+<p align="center">
   <img src="datascienceme.png" width="500" height="400">
-</div>
+</p>
 
 I am thrilled with things we can do with data and how it can influence our life! ✨
 
