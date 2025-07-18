@@ -20,3 +20,7 @@ I am thrilled with things we can do with data and how it can influence our life!
   - 🏞️ my natural habitat is nature.
   - 🐴 I adore horses, especially their emotional side - my stallion's name is Zordon,
   - 🐶 I am in love with my bossy mini dachshund named Chilli.
+
+<p align="center">
+  <img src="menrobot.png" width="500" height="400">
+</p>
