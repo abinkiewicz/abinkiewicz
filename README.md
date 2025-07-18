@@ -7,10 +7,10 @@
 I am thrilled with things we can do with data and how it can influence our life! ✨
 
 - 🔭 I’m currently working on different apps to boost my data science knowledge and skills, eg.:
-  - **Preorder Me: order helper for procurement specialists**,
-  - Mate Me: clustering people's data from the course to find my matching friend,
-  - Transcript Me: app for transcripting my thoughts recorded in .mp3,
-  - Equestrian Me: my personal horse trainer.
+  - **Preorder Me: order helper for procurement specialists** (https://github.com/abinkiewicz/preorder_me),
+  - Mate Me: clustering people's data from the course to find my matching friend (https://github.com/abinkiewicz/mate_me),
+  - Transcript Me: app for transcripting my thoughts recorded in .mp3 (https://github.com/abinkiewicz/transcript_me),
+  - Equestrian Me: my personal horse trainer (https://github.com/abinkiewicz/equestrian_me).
 - 🌱 I’m currently learning how to use different machine learning models to make magic with data.
 - 👯 I’m looking to collaborate on projects connected with data analysis, transformation and overall usage.
   
