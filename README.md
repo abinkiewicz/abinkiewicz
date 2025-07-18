@@ -7,6 +7,7 @@
 I am thrilled with things we can do with data and how it can influence our life! ✨
 
 - 🔭 I’m currently working on different apps to boost my data science knowledge and skills, eg.:
+  - **Preorder Me: order helper for procurement specialists**,
   - Mate Me: clustering people's data from the course to find my matching friend,
   - Transcript Me: app for transcripting my thoughts recorded in .mp3,
   - Equestrian Me: my personal horse trainer.
