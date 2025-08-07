@@ -2,7 +2,7 @@
 
 My 🔧 tech stack: Python | Power BI | Excel | SQL | pandas | scikit-learn | Git | Streamlit | matplotlib | seaborn
 <p align="center">
-  <img src="datascienceme.png" width="500" height="400">
+  <img src="new_logo.png" width="500" height="400">
 </p>
 
 I am thrilled with things we can do with data and how it can influence our life! ✨
