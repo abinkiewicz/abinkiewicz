@@ -1,8 +1,8 @@
 # Hi all! 🧚
 
-My 🔧 tech stack: Python | Power BI | Excel | SQL | pandas | scikit-learn | Git | Streamlit | matplotlib | seaborn
+My tech stack: Python | Power BI | Excel | SQL | pandas | scikit-learn | Git | Streamlit | matplotlib | seaborn
 <p align="center">
-  <img src="logo_new.png" width="500" height="400">
+  <img src="logo_new.png" width="600" height="500">
 </p>
 
 I am thrilled with things we can do with data and how it can influence our life! ✨
