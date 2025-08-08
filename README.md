@@ -9,7 +9,7 @@ I am thrilled with things we can do with data and how it can influence our life!
 
 - 🔭 I’m currently working on different apps to boost my data science knowledge and skills, eg.:
   - **Preorder Me: order helper for procurement specialists** (https://github.com/abinkiewicz/preorder_me),
-  - **Business Me: KPIs calculator for financial data analysis and Power BI dashboards** (https://github.com/abinkiewicz/business_me),
+  - **Retail KPIs Analyzer: KPIs calculator for financial data analysis with PostgreSQL and Python visualization** (https://github.com/abinkiewicz/Retail_KPIs_Analyzer),
   - Mate Me: clustering people's data from the course to find my matching friend (https://github.com/abinkiewicz/mate_me),
   - Transcript Me: app for transcripting my thoughts recorded in .mp3 (https://github.com/abinkiewicz/transcript_me),
   - Equestrian Me: my personal horse trainer (https://github.com/abinkiewicz/equestrian_me).
